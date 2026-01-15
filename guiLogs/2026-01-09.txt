@@ -1,0 +1,5 @@
+2026-01-09 08:55:04.0518-INFO v2rayN start up | v2rayN - V7.16.4 - X64 | D:\BaiduNetdiskDownload\v2rayN-windows-64\ | D:\BaiduNetdiskDownload\v2rayN-windows-64\v2rayN.exe | Microsoft Windows NT 10.0.26100.0
+2026-01-09 08:55:05.0683-INFO Setup Scheduled Tasks
+2026-01-09 08:57:03.4955-INFO OnClosing -> WindowClosing
+2026-01-09 08:57:08.6322-INFO OnClosing -> ApplicationShutdown
+2026-01-09 08:57:08.6322-INFO AppExitAsync Begin

@@ -1,0 +1,15 @@
+2026-01-14 08:31:14.3242-INFO v2rayN start up | v2rayN - V7.16.4 - X64 | D:\BaiduNetdiskDownload\v2rayN-windows-64\ | D:\BaiduNetdiskDownload\v2rayN-windows-64\v2rayN.exe | Microsoft Windows NT 10.0.26100.0
+2026-01-14 08:31:15.7126-INFO Setup Scheduled Tasks
+2026-01-14 08:32:53.6427-DEBUG ConfigHandler,IO_FileNotFound_FileName, D:\BaiduNetdiskDownload\v2rayN-windows-64\guiConfigs\guiNConfig.json_temp
+2026-01-14 08:32:53.6427-DEBUG    at System.IO.File.Move(String sourceFileName, String destFileName, Boolean overwrite)
+   at ServiceLib.Handler.ConfigHandler.SaveConfig(Config config) in /home/runner/work/v2rayN/v2rayN/v2rayN/ServiceLib/Handler/ConfigHandler.cs:line 196
+2026-01-14 09:38:40.1897-DEBUG Utils,Format_BadBase64Char
+2026-01-14 09:38:40.1897-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at ServiceLib.Common.Utils.Base64Decode(String plainText) in /home/runner/work/v2rayN/v2rayN/v2rayN/ServiceLib/Common/Utils.cs:line 129
+2026-01-14 10:52:43.4308-DEBUG ConfigHandler,IO_FileNotFound_FileName, D:\BaiduNetdiskDownload\v2rayN-windows-64\guiConfigs\guiNConfig.json_temp
+2026-01-14 10:52:43.4308-DEBUG    at ServiceLib.Handler.ConfigHandler.SaveConfig(Config config) in /home/runner/work/v2rayN/v2rayN/v2rayN/ServiceLib/Handler/ConfigHandler.cs:line 196
+2026-01-14 17:56:33.6394-INFO OnClosing -> WindowClosing
+2026-01-14 17:56:43.7496-INFO OnClosing -> ApplicationShutdown
+2026-01-14 17:56:43.7496-INFO AppExitAsync Begin
